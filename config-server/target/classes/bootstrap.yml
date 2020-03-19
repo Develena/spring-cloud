@@ -1,0 +1,4 @@
+# application.yml 보다 먼저 로드되는 설정 정보
+spring:
+  application:
+    name: config-server
